@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bytesized&size=40&pause=1000&width=435&lines=Hello%2C+There!+;This+is+Dhanush+Hebbar;Welcome+to+my+Github+Page!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bytesized&size=40&pause=1000&width=435&lines=Hello%2C+There!+;This+is+Dhanush+Hebbar;Welcome+to+my+Github!" alt="Typing SVG" /></a>
 <!--
 **ErascusPlatypus/ErascusPlatypus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
