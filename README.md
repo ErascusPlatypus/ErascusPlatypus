@@ -16,7 +16,7 @@
 </br>
 <h2>🚀 Featured Projects</h2>
 <p>
-  <a href="https://github.com/ErascusPlatypus/c2-docker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=c2-docker&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Command and Control"></a>
+  <a href="https://github.com/ErascusPlatypus/YoutubeChannelRecommender"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=c2-docker&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Command and Control"></a>
   <a href="https://github.com/ErascusPlatypus/TabOrganizer">
 	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=TabOrganizer&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="TabOrganizer"></a>
   <a href="https://github.com/ErascusPlatypus/EasyMove">
