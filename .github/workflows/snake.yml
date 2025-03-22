@@ -25,14 +25,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Generate the snake animation
+      # Generate the snake animation with custom colors
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: ErascusPlatypus
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#B266FF&color_dots=#d0f0c0,#a8e6a2,#6cc24a,#43a047,#2e7d32
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#B266FF&color_dots=#d0f0c0,#a8e6a2,#6cc24a,#43a047,#2e7d32
           
       # Push generated files to the output branch
       - name: Push github-contribution-grid-snake.svg to the output branch
