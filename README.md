@@ -16,18 +16,18 @@
 </br>
 <h2>🚀 Featured Projects</h2>
 <p>
-  <a href="https://github.com/ErascusPlatypus/c2-docker"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=c2-docker&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Command and Control"></a>
+  <a href="https://github.com/ErascusPlatypus/c2-docker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=c2-docker&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Command and Control"></a>
   <a href="https://github.com/ErascusPlatypus/TabOrganizer">
-	  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=TabOrganizer&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="TabOrganizer"></a>
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=TabOrganizer&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="TabOrganizer"></a>
   <a href="https://github.com/ErascusPlatypus/EasyMove">
-	  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=EasyMove&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="EasyMove">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=EasyMove&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="EasyMove">
   </a>
   </br>
 
   
   </p>
   <p align="right">
-    <a href="https://github.com/amangupta143?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+    <a href="https://github.com/ErascusPlatypus?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
   </p>
 
 
