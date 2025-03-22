@@ -1,13 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bytesized&size=40&pause=1000&width=435&lines=Hello%2C+There!+;This+is+Dhanush+Hebbar;Welcome+to+my+Github!" alt="Typing SVG" /></a>
 
 
-# About Me : 
+# 👨‍🦱 About Me : 
 
-- 👷 CPP Intern @Hewlett Packard Enterprise 
-- 👨‍🎓 B.Tech in Computer Science with Specialization in Cyber Security (2022 - Present) - CGPA : 8.84
-- 💼 I’m looking for Full-Time Opportunities and Internships
-- 💬 Ask me about DevOps / AI / Flutter. 
-- 🤔 I’m looking for help with how to excel in Competitive Programming
+- 👷 CPP Intern @ **Hewlett Packard Enterprise**
+- 👨‍🎓 B.Tech in Computer Science with Specialization in Cyber Security (2022 - Present) - **CGPA : 8.84**
+- 💼 I’m looking for **Full-Time Opportunities and Internships**
+- 💬 Ask me about **DevOps / AI / Flutter**. 
+- 🤔 I’m looking for help with how to excel in **Competitive Programming**
     
 
 # 💻 Tech Stack:
@@ -16,9 +16,9 @@
 </br>
 <h2>🚀 Featured Projects</h2>
 <p>
-  <a href="https://github.com/ErascusPlatypus/YoutubeChannelRecommender"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=c2-docker&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Command and Control"></a>
-  <a href="https://github.com/ErascusPlatypus/TabOrganizer">
+   <a href="https://github.com/ErascusPlatypus/TabOrganizer">
 	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=TabOrganizer&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="TabOrganizer"></a>
+  <a href="https://github.com/ErascusPlatypus/YoutubeChannelRecommender"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=c2-docker&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Command and Control"></a>
   <a href="https://github.com/ErascusPlatypus/EasyMove">
 	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ErascusPlatypus&repo=EasyMove&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="EasyMove">
   </a>
