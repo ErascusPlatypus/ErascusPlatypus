@@ -27,7 +27,7 @@
   
   </p>
   <p align="right">
-    <a href="https://github.com/amangupta143?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+    <a href="https://github.com/ErascusPlatypus?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
   </p>
 
 
