@@ -4,9 +4,9 @@
 # 👨‍🦱 About Me : 
 
 - 👷 CPP Intern @ **Hewlett Packard Enterprise**
-- 👨‍🎓 B.Tech in Computer Science with Specialization in Cyber Security (2022 - Present) - **CGPA : 8.84**
+- 👨‍🎓 B.Tech in Computer Science with Specialization in Cyber Security (2022 - Present) - **CGPA : 8.96**
 - 💼 I’m looking for **Full-Time Opportunities and Internships**
-- 💬 Ask me about **DevOps / AI / Flutter**. 
+- 💬 Ask me about **DevOps / AI / App Dev**. 
 - 🤔 I’m looking for help with how to excel in **Competitive Programming**
     
 
